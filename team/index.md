@@ -22,11 +22,11 @@ nav:
 
 ## External Collaborators 
 
-{% include list.html data="members" component="portrait" filter="role == 'external'" %}
+{% include list.html data="members" component="portrait" filter="group == 'external'" %}
 {% include section.html %}
 
 ## Alumni
 
-{% include list.html  data="members"  component="portrait"  filter="role == 'alumni'" %}
+{% include list.html  data="members"  component="portrait"  filter="group == 'alumni'" %}
 
 {% include section.html %}
