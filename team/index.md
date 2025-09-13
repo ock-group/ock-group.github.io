@@ -15,13 +15,23 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
----
+{% include section.html %}
+
+## Visiting Students
+
+{% include list.html data="members" component="portrait" filter="group == 'visiting'" %}
+{% include section.html %}
+
+## External Collaborators 
+
+{% include list.html data="members" component="portrait" filter="role == 'external'" %}
+{% include section.html %}
 
 ## Alumni
 
-We are proud of our alumni and their achievements beyond our group.
+{% include list.html  data="members"  component="portrait"  filter="role == 'alumni'" %}
 
-{% include list.html data="members" component="portrait" filter="group == 'alumni'" %}
+{% include section.html %}
 
 <!-- {% include section.html %}
 
