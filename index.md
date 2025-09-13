@@ -19,7 +19,7 @@ The **Ock Research Group** at the University of Nebraska–Lincoln develops arti
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Research Overview"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -37,12 +37,12 @@ The **Ock Research Group** at the University of Nebraska–Lincoln develops arti
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Discover our latest research in AI-driven molecular and materials design, autonomous discovery, and data analysis.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="publications"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -53,8 +53,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="publications"
+  title="Our Publications"
   flip=true
   style="bare"
   text=text
