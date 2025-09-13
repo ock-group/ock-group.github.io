@@ -1,10 +1,14 @@
 ---
 ---
 
-# ock-group's Website
+# AI-Assisted Molecular & Materials Design and Discovery  
 
-An engaging 1-3 sentence description of your lab.
+The **Ock Research Group** at the University of Nebraska–Lincoln develops artificial intelligence and autonomous systems to accelerate molecular and materials innovation. We focus on AI-driven design, autonomous discovery, and scalable modeling approaches to transform how new molecules and materials are created.  
 
+## Research Interests  
+- **Autonomous Materials Design** – AI systems for catalyst design, molecular synthesis, and soft materials.  
+- **Foundation Models for Experiments** – Multi-source data analysis (spectroscopy, microscopy) to uncover material properties.  
+- **Scalable Chemical Data** – Pipelines for extracting and integrating chemical knowledge from literature and databases.  
 {% include section.html %}
 
 ## Highlights
