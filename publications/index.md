@@ -9,7 +9,7 @@ nav:
 
 {% include button.html icon="fa-brands fa-google" text="More on Google Scholar" link="https://scholar.google.com/citations?user=93876JkAAAAJ&hl=en" %}
 
-
+Citations are generated automatically using the [Manubot cite utility](https://github.com/manubot/manubot#cite).
 
 {% include search-box.html %}
 
