@@ -2,8 +2,8 @@
 
 # team member roles
 
-principal-investigator:
-  icon: fa-solid fa-microscope
+pi:
+  icon: fa-solid fa-user-tie
   description: Principal Investigator
 
 postdoc:
