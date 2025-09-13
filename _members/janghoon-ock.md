@@ -1,7 +1,7 @@
 ---
 name: Janghoon Ock
 image: images/team/pi_janghoon_ock.jpg
-role: pi
+role: principal-investigator
 aliases:
   - Jang Hoon Ock
   - J. Ock
