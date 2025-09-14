@@ -121,7 +121,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 60px 10px;
+  padding: 60px 0;
   top: unset;
 }
 header[data-big] .home {
