@@ -3,6 +3,7 @@ name: Janghoon Ock
 image: images/team/pi_janghoon_ock.jpg
 role: pi
 aliases:
+  - Janghoon Ock
   - Jang Hoon Ock
   - J. Ock
   - J.H. Ock
@@ -33,4 +34,3 @@ Dr. Janghoon Ock is an Assistant Professor in the Department of Chemical and Bio
 - Scalable Chemical Data Processing
 - Machine Learning Potential
 - Computational Catalysis
-
