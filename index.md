@@ -11,9 +11,14 @@ The **Ock Research Group** at the University of Nebraska–Lincoln develops arti
 
 {% capture text %}
 
-- **Autonomous Materials Design** – AI systems for catalyst design, molecular synthesis, and soft materials.  
-- **Foundation Models for Experiments** – Multi-source data analysis (spectroscopy, microscopy) to uncover material properties.  
-- **Scalable Chemical Data** – Pipelines for extracting and integrating chemical knowledge from literature and databases.  
+
+The **Ock Research Group** pushes the frontier of AI-driven materials and molecular design and discovery. Our work spans catalysts, metal–organic frameworks, functional molecules, and beyond, all with the aim of advancing global sustainability.  
+
+Our core interests include:  
+- Autonomous Agents for Materials and Molecular Design  
+- Foundation Models for Chemical Experimental Data  
+- AI-Accelerated Quantum Chemistry Simulations  
+
 {% include section.html %}
 
 {%
