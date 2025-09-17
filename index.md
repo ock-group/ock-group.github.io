@@ -34,7 +34,7 @@ Our core interests include:
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -57,7 +57,7 @@ Discover our latest research in AI-driven molecular and materials design, autono
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/publication.jpg"
   link="publications"
   title="Our Publications"
   flip=true
@@ -85,7 +85,7 @@ We are a team of enthusiastic researchers pushing the frontier of AI for molecul
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/team.jpg"
   link="team"
   title="Our Team"
   text=text
