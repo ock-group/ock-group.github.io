@@ -1,6 +1,6 @@
 ---
 name: Janghoon Ock
-image: images/team/pi_janghoon_ock.jpg
+image: images/team/pi_janghoon_ock.png
 role: pi
 aliases:
   - Janghoon Ock
