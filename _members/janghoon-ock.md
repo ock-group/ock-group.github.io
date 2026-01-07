@@ -1,6 +1,6 @@
 ---
 name: Janghoon Ock
-image: images/team/pi_janghoon_ock.png
+image: images/team/janghoon.png
 role: pi
 aliases:
   - Janghoon Ock
@@ -18,8 +18,8 @@ Dr. Janghoon Ock is an Assistant Professor in the Department of Chemical and Bio
 
 {% include section.html%}
 ## Professional Experience
-- Assistant Professor, University of Nebraska–Lincoln (2025–present)
-- Associate Research Scientist, SK Innovation, South Korea (2018–2021)
+- Assistant Professor, University of Nebraska–Lincoln, 2025-Present
+- Associate Research Scientist, SK Innovation, South Korea, 2018–2021
 
 {% include section.html%}
 ##  Education

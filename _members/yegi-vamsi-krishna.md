@@ -1,6 +1,6 @@
 ---
 name: Yegi Vamsi Krishna
-image: images/photo.jpg
+image: images/vamsi.jpg
 role: phd
 group: team
 links:
