@@ -1,11 +1,17 @@
 ---
 name: Obed Issakah
-image: images/photo.jpg
+image: images/obed.jpg
 role: phd
 group: team
 links:
+  linkedin: janghoon-hoon-ock-aaa5a5140
   email: oissakah2@huskers.unl.edu
+  orcid: 0009-0000-0370-4212
+  google-scholar: https://scholar.google.com/citations?user=93876JkAAAAJ&hl=en&oi=ao
 ---
 
-Research interests: AI/ML for polymer and battery materials design, Large Language models for materials discovery, Computational chemistry, electrocatalysis
-I love going to church and sometimes teach the Bible, singing: mostly hymnal songs, playing soccer, sci-fi movies, and weight-lifting.
+I am a PhD candidate in the Chemical and Biomolecular Engineering department. My research focuses on Machine Learning for sustainability.
+
+{% include section.html%}
+##  Education
+- BS, Materials Engineering, KNUST 
