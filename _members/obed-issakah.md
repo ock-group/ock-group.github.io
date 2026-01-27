@@ -1,6 +1,6 @@
 ---
 name: Obed Issakah
-image: images/team/obed.jpg
+image: images/team/obed.png
 role: phd
 group: team
 links:
