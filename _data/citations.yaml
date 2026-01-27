@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1039/D5DD00298B
+  title: "Adsorb-Agent: autonomous identification of stable adsorption configurations\n\
+    \                    <i>via</i>\n                    a large language model agent"
+  authors:
+  - Janghoon Ock
+  - Radheesh Sharma Meda
+  - Tirtha Vinchurkar
+  - Yayati Jadhav
+  - Amir Barati Farimani
+  publisher: Digital Discovery
+  date: '2026-01-01'
+  link: https://doi.org/hbmjrb
+  orcid: 0009-0000-0370-4212
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1088/2632-2153/ae2382
   title: LLM-guided chemical process optimization with a multi-agent approach
   authors:
