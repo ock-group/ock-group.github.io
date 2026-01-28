@@ -10,7 +10,7 @@ links:
   google-scholar: https://scholar.google.com/citations?hl=en&user=Bu1-L3cAAAAJ
 ---
 
-I am a PhD candidate in the Chemical and Biomolecular Engineering department. My research focuses on Machine Learning for sustainability.
+I am a PhD candidate in the Chemical and Biomolecular Engineering department. My research focuses on Machine Learning for sustainability. Currently, I am conducting a study on materials for pollutant removal from the environment. 
 
 {% include section.html%}
 ##  Education
