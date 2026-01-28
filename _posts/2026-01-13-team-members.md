@@ -1,9 +1,8 @@
 ---
-title: Group Repo & Website Launch Announcement
+title: New Members
 image: 
 author: janghoon-ock
 tags:
-  - software
   - welcome
 ---
 
