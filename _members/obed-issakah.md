@@ -4,7 +4,6 @@ image: images/team/obed.png
 role: phd
 group: team
 links:
-  linkedin: janghoon-hoon-ock-aaa5a5140
   email: oissakah2@huskers.unl.edu
   orcid: 0009-0000-6733-4003
   google-scholar: https://scholar.google.com/citations?hl=en&user=Bu1-L3cAAAAJ
