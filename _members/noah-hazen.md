@@ -1,7 +1,7 @@
 ---
 name: Noah Hazen
 image: 
-role: phd
+role: undergrad
 group: team
 links:
   email: nhazen2@huskers.unl.edu 
