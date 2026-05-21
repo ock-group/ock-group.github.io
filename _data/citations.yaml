@@ -1,5 +1,48 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.commatsci.2026.114580
+  title: 'Text to band gap: Pre-trained language models as encoders for semiconductor
+    band gap prediction'
+  authors:
+  - Ying-Ting Yeh
+  - Janghoon Ock
+  - Achuth Chandrasekhar
+  - Shagun Maheshwari
+  - Amir Barati Farimani
+  publisher: Computational Materials Science
+  date: '2026-04-01'
+  link: https://doi.org/hb46wp
+  orcid: 0009-0000-0370-4212
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43246-025-00994-x
+  title: Modular large language model agents for multi-task computational materials
+    science
+  authors:
+  - Akshat Chaudhari
+  - Janghoon Ock
+  - Amir Barati Farimani
+  publisher: Communications Materials
+  date: '2026-03-26'
+  link: https://doi.org/hb46wq
+  orcid: 0009-0000-0370-4212
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jcim.5c02454
+  title: Large Language Model Agent for Modular Task Execution in Drug Discovery
+  authors:
+  - Janghoon Ock
+  - Radheesh Sharma Meda
+  - Srivathsan Badrinarayanan
+  - Neha S. Aluru
+  - Achuth Chandrasekhar
+  - Amir Barati Farimani
+  publisher: Journal of Chemical Information and Modeling
+  date: '2026-02-09'
+  link: https://doi.org/hb46wr
+  orcid: 0009-0000-0370-4212
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1039/D5DD00298B
   title: "Adsorb-Agent: autonomous identification of stable adsorption configurations\n\
     \                    <i>via</i>\n                    a large language model agent"
@@ -38,7 +81,7 @@
   - Neha S Aluru
   - Achuth Chandrasekhar
   - Amir Barati farimani
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-07-05'
   link: https://doi.org/g93h8z
   orcid: 0009-0000-0370-4212
@@ -65,7 +108,7 @@
   - Janghoon Ock
   - Amir Barati Farimani
   publisher: American Chemical Society (ACS)
-  date: '2025-04-30'
+  date: '2025-04-29'
   link: https://doi.org/g93h83
   orcid: 0009-0000-0370-4212
   plugin: orcid.py
