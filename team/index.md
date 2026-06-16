@@ -10,19 +10,26 @@ nav:
 
 {% include section.html %}
 
+## Principal Investigator
+
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi' && group == 'team'" %}
 
 {% include section.html %}
 
-## Visiting Students
+## Graduate Students
 
-{% include list.html data="members" component="portrait" filter="group == 'visiting'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi' && role != 'undergrad' && group == 'team'" %}
+
 {% include section.html %}
 
-## External Collaborators 
+## Undergraduate Researchers
 
-{% include list.html data="members" component="portrait" filter="group == 'external'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad' && group == 'team'" %}
+
+{% include section.html %}
+
+
+
 {% include section.html %}
 
 ## Alumni

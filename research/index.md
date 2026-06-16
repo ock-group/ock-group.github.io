@@ -9,21 +9,18 @@ nav:
 
 {% include search-info.html %}
 
-## Autonomous Discovery for Materials and Molecules  
+Molecular and materials design is a high-dimensional search problem where composition, structure, and processing conditions are deeply coupled. Traditional approaches rely on researchers' intuition to define search spaces and iteratively adjust candidate generation and simulation settings — a sequential, labor-intensive process. We aim to overcome these limits by building AI agent systems that integrate search space definition, candidate generation, computation, and decision-making into a unified autonomous loop.
 
-We develop AI agents powered by large language models to autonomously explore, design, and optimize new materials and molecules. Our research includes autonomous catalyst discovery, 2D material design, and molecular synthesis planning, aiming to accelerate breakthroughs in energy, electronics, and sustainable technologies.  
+Our research sits at the intersection of large language models (LLMs), agent design, and multimodal learning, with the goal of establishing general-purpose agent methodologies applicable across molecular and materials design problems. We pursue this through three core directions:
 
+## Cognitive Mechanisms of Agents for Chemical Reasoning
 
-## Scalable Screening with AI and Simulation 
+We investigate how LLMs encode chemical knowledge and constraints in latent space, and how these representations connect to reasoning and performance. This includes quantitative analysis of embedding structures for molecular representations and functional groups, and understanding how memory design and agent architecture shape search behavior. Our goal is to establish principled design rules for agents optimized for materials application.
 
-We build large-scale datasets and machine learning models grounded in quantum chemistry simulations. These scalable frameworks enable rapid screening of vast chemical and materials spaces, reducing the time and cost required for identifying candidates with desired performance and stability. 
+## Multimodal Foundation Models for Experiment–Computation Integration
 
-## AI Frameworks for Experimental Characterization 
+We develop foundation models that jointly understand electron microscopy images, spectroscopic data, synthesis conditions, and text records. Combined with agent frameworks, these models can predict properties from experimental inputs, quantify uncertainty, and autonomously propose follow-up experiments — such as additional characterization or synthesis adjustments — to resolve ambiguities and guide discovery.
 
-Our group builds foundation models that integrate various modalities from experiments, including spectroscopy, microscopy, and scattering techniques. These models enable more accurate interpretation of experimental data, uncover hidden structure–property relationships, and guide the design of novel functional materials.  
+## Nano-Scale Self-Assembly Modeling
 
- 
-
-## Open Software for Reproducible Science  
-
-The Ock Research Group is committed to advancing open science by developing accessible, well-documented computational tools that ensure reproducibility and transparency. Our software efforts focus on enabling the broader scientific community to reuse, validate, and extend our methods.
+We model self-assembled nanonetworks — predicting dynamic percolation pathways and the nonlinear, non-Ohmic electrical response that emerges as nanoparticles organize into conductive structures. Our current foundation is a physics-based solver, on top of which we are developing graph neural networks, generative models, and GFlowNet-based sampling to invert the problem — engineering network structures that meet target properties. A central direction is scaling these models from the atomic scale to the nanoscale, the regime critical for device-level development of next-generation nanoelectronics.
