@@ -1,14 +1,13 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 6
   tooltip: Email, address, and location
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We welcome inquiries about research, collaboration, and opportunities to join the group.  
-Openings for Ph.D. students and postdocs, if available, will be announced on my [LinkedIn](https://www.linkedin.com/in/janghoon-hoon-ock-aaa5a5140/).
+We welcome inquiries about research, collaboration, and opportunities to join the group.
 
 {%
   include button.html
@@ -29,6 +28,19 @@ Openings for Ph.D. students and postdocs, if available, will be announced on my 
   tooltip="Find us on Google Maps"
   link="https://maps.app.goo.gl/wnA1qwUUfzjXBg8AA"
 %}
+
+{% include section.html %}
+
+## Openings
+
+{% include alert.html type="success" content="**Undergraduate researchers (UNL Chemical Engineering):** Multiple positions open." %}
+{% include alert.html type="info" content="**Ph.D. student:** 1 position open, starting Spring 2027." %}
+{% include alert.html type="warning" content="**Postdoc:** No openings at this time." %}
+
+To inquire, email [jock2@unl.edu](mailto:jock2@unl.edu) with:
+- **Subject:** `Ock Group PhD Application [Your Name]` or `Ock Group Undergrad Application [Your Name]`
+- **CV or Resume**
+- **Brief introduction** and **research interest**
 
 {% include section.html %}
 

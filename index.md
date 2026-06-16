@@ -1,9 +1,9 @@
 ---
 ---
 
-# AI-Driven Molecular & Materials Design and Discovery  
+# AI Agent Systems for Molecular & Materials Design
 
-The **Ock Research Group** at the University of Nebraska–Lincoln develops artificial intelligence and autonomous systems to accelerate molecular and materials innovation. We focus on AI-driven design, autonomous discovery, and scalable modeling approaches to transform how new molecules and materials are created.  
+The **Ock Research Group** at the University of Nebraska–Lincoln builds AI agent systems that autonomously explore, design, and optimize molecules and materials. By integrating large language models, multimodal learning, and agent design, we aim to establish a new paradigm where AI acts as an intelligent partner in scientific discovery — from hypothesis generation to experimental design and result interpretation.
 
 
 
@@ -11,13 +11,12 @@ The **Ock Research Group** at the University of Nebraska–Lincoln develops arti
 
 {% capture text %}
 
+The **Ock Research Group** develops agent-based AI systems for autonomous materials and molecular design. Rather than improving individual models in isolation, we focus on integrating reasoning, search, and decision-making into unified agent frameworks applicable across chemistry and materials problems.
 
-The **Ock Research Group** pushes the frontier of AI-driven materials and molecular design and discovery. Our work spans catalysts, metal–organic frameworks, functional molecules, and beyond, all with the aim of advancing global sustainability.  
-
-Our core interests include:  
-- Autonomous Agents for Materials and Molecular Design  
-- Foundation Models for Chemical Experimental Data  
-- AI-Accelerated Quantum Chemistry Simulations  
+Our core research directions:
+- Cognitive Mechanisms of Agents for Chemical Reasoning
+- Multimodal Foundation Models for Experiment–Computation Integration
+- Nano-Scale Self-Assembly Modeling
 
 {% include section.html %}
 
@@ -42,7 +41,7 @@ Our core interests include:
 
 {% capture text %}
 
-Discover our latest research in AI-driven molecular and materials design, autonomous discovery, and data analysis.
+Discover our latest work on LLM agents, multimodal foundation models, and nanoscale structure–property modeling for materials discovery.
 
 {%
   include button.html
@@ -90,3 +89,4 @@ We are a team of enthusiastic researchers pushing the frontier of AI for molecul
   title="Our Team"
   text=text
 %}
+
