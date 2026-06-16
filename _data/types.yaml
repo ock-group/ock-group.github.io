@@ -130,6 +130,7 @@ cv:
   icon: fa-solid fa-file-pdf
   text: CV
   tooltip: Curriculum Vitae
+  link: $VALUE
 
 # alerts
 
